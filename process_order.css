@@ -1,0 +1,40 @@
+/* Process Order Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+.bill-details {
+    margin-top: 20px;
+}
+
+.bill-details p {
+    font-size: 18px;
+}
+
+.bill-details strong {
+    font-weight: bold;
+}
+
+.thank-you-message {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #4CAF50;
+}
