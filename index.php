@@ -10,7 +10,6 @@
     <h1>Welcome to Our Hotel</h1>
     <nav>
         <a href="menu.php">View Menu</a>
-        <a href="order.php">Your Order</a>
         <a href="rating.php">Rate Us</a>
     </nav>
 </body>
